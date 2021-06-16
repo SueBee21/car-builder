@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(65, 65, 85);
+}
+
 h1 {
 text-align: center;
 font-family: "Fantasy", "Copperplate";
@@ -5,4 +9,8 @@ font-size: 70px;
 color: white;
 background-color: rgb(11, 11, 34);
 padding: 20px;
+}
+
+.required {
+    color: gray;
 }
